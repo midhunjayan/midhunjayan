@@ -9,7 +9,7 @@
 
 [![Linkedin: Midhun P J](https://img.shields.io/badge/Midhun-9cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhun-p-j-6b826369//)](https://www.linkedin.com/in/midhun-p-j-6b826369//)
 
-[![Gmail Midhun P J]](mailto:iammidhunpj@gmail.com)
+[![Gmail Midhun P J]](mailto:midhunjayan.official@gmail.com)
 
 
 **Languages and Tools:** 
