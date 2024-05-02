@@ -7,7 +7,7 @@
 
 🤝🏻 Reach me out!
 
-[![Linkedin: Midhun P J](https://img.shields.io/badge/Midhun-9cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhun-p-j-6b826369//)](https://www.linkedin.com/in/midhun-p-j-6b826369//)
+[![Linkedin: Midhun P J](https://img.shields.io/badge/Midhun-9cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhunjayan93//)](https://www.linkedin.com/in/midhunjayan93//)
 
 [![Gmail Midhun P J]](mailto:midhunjayan.official@gmail.com)
 
